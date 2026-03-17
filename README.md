@@ -19,7 +19,7 @@ Motion detection is widely used in many real-world applications, including:
 
 ## 📝 Assignment (Optional)
 
-After completing this lab, you are encouraged to work on the **Lab 1 Assignment** as preparation.
+After completing this lab, you are encouraged to work on the **Lab 2 Assignment** as preparation.
 
 ⚠️ The official solution is not published immediately.
 
